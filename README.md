@@ -24,8 +24,6 @@ The analysis is based on four datasets:
 - **Customers Table**: Customer demographic data and purchase behaviors.
 - **Coupon Table**: Details on coupons and discounts applied.
 
-👉 Access all datasets in the repository [HERE](link-to-datasets-folder).
-
 ---
 
 ## Business Questions
@@ -79,7 +77,7 @@ All data transformations, aggregations, and calculations were performed using SQ
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Miller_CO.git
+   [git clone https://github.com/yourusername/Miller_CO.git](https://github.com/dammmie-beep/Miller_CO.git)
    ```
 2. **Set up the database**:
    - Import the SQL file into your preferred SQL environment to recreate the database schema and tables.
