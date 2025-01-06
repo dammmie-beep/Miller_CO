@@ -77,7 +77,7 @@ All data transformations, aggregations, and calculations were performed using SQ
 
 1. **Clone the repository**:
    ```bash
-   [git clone https://github.com/yourusername/Miller_CO.git](https://github.com/dammmie-beep/Miller_CO.git)
+   git clone https://github.com/dammmie-beep/Miller_CO.git
    ```
 2. **Set up the database**:
    - Import the SQL file into your preferred SQL environment to recreate the database schema and tables.
